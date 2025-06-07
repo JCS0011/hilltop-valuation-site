@@ -1,11 +1,13 @@
-// Placeholder for main App component
-export default App;
 import React from 'react';
 
 function App() {
   return (
     <div>
-      {/* Your content goes here */}
+      <h1>Hilltop Valuation Group</h1>
+      <p>We provide expert business valuations tailored to your needs.</p>
     </div>
   );
 }
+
+export default App;
+
