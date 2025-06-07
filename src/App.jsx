@@ -1,1 +1,1 @@
-// Final App.jsx content placeholder
+// Placeholder for main App component
